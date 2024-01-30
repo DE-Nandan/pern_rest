@@ -1,0 +1,9 @@
+express - to create a server in nodejs
+
+cors - diff domain applications to interact with each other for eg . our servers on localhost on 5000 and react on locahalost 3000
+
+pg - connect our db to server using pg queries
+
+nodemon - to take the changes dynamically as it is made by automatically restaarting the server
+
+-npm run start
